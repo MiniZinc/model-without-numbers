@@ -8,3 +8,8 @@ The links open directly in the browser-based MiniZinc web IDE. You can also down
 - [Worker/task assignment](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/01-Assignment.mzp)
 - [Production Planning](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/02-Prodplan.mzp)
 - [Enumerated types](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/03-Enums.mzp)
+
+For more examples and exercises, see
+
+- [ICAPS tutorial (slides and code)](https://github.com/MiniZinc/icaps-tutorial)
+- [MiniZinc tutorial](https://docs.minizinc.dev/en/stable/part_2_tutorial.html)
