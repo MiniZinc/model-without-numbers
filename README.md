@@ -4,6 +4,7 @@ This repository contains example MiniZinc models that showcase "modelling withou
 
 The links open directly in the browser-based MiniZinc web IDE. You can also download or clone this repository and open the project files directly in the desktop MiniZinc IDE.
 
+- Warp-up: [Cryptarithms](https://play.minizinc.dev/#url=https%3A%2F%2Fraw.githubusercontent.com%2FMiniZinc%2Ficaps-tutorial%2Frefs%2Fheads%2Fmain%2Fminizinc%2Fcryptarithm%2FCryptarithm.mzp) ([PDF description](https://raw.githubusercontent.com/MiniZinc/icaps-tutorial/refs/heads/main/minizinc/cryptarithm/pdf/cryptarithm.pdf))
 - [Worker/task assignment](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/01-Assignment.mzp)
 - [Production Planning](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/02-Prodplan.mzp)
 - [Enumerated types](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/03-Enums.mzp)
