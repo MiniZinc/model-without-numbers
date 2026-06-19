@@ -1,8 +1,8 @@
 # Model without Numbers
 
-This repository contains example MiniZinc models that showcase "modelling without numbers".
+This repository contains example MiniZinc models for the talk "Model without Numbers (!)". The [PDF slides](https://github.com/MiniZinc/model-without-numbers/blob/3a965fa532e818d156b3bebe5e390c2895acfc0c/slides/Model_without_Numbers.pdf) are available for download.
 
-The links open directly in the browser-based MiniZinc web IDE. You can also download or clone this repository and open the project files directly in the desktop MiniZinc IDE.
+The links below open directly in the browser-based MiniZinc web IDE. You can also download or clone this repository and open the project files directly in the desktop MiniZinc IDE.
 
 - Warp-up: [Cryptarithms](https://play.minizinc.dev/#url=https%3A%2F%2Fraw.githubusercontent.com%2FMiniZinc%2Ficaps-tutorial%2Frefs%2Fheads%2Fmain%2Fminizinc%2Fcryptarithm%2FCryptarithm.mzp) ([PDF description](https://raw.githubusercontent.com/MiniZinc/icaps-tutorial/refs/heads/main/minizinc/cryptarithm/pdf/cryptarithm.pdf))
 - [Worker/task assignment](https://play.minizinc.dev/#url=https://raw.githubusercontent.com/MiniZinc/model-without-numbers/refs/heads/main/examples/01-Assignment.mzp)
