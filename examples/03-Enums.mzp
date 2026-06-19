@@ -1,0 +1,21 @@
+{
+    "openFiles": [
+        "03-Enums/07_assignment_MIP_heavy_bug_enum.mzn",
+        "03-Enums/08_assignment_CP_heavy_enum.mzn",
+        "03-Enums/09_prod_plan_enum.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "03-Enums/07_assignment_MIP_heavy_bug_enum.mzn",
+        "03-Enums/08_assignment_CP_heavy_enum.mzn",
+        "03-Enums/09_prod_plan_enum.mzn",
+        "03-Enums/assignment_04.dzn",
+        "03-Enums/assignment_05.dzn",
+        "03-Enums/assignment_10.dzn",
+        "03-Enums/prod_plan_12.dzn",
+        "03-Enums/prod_plan_6.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

@@ -1,0 +1,8 @@
+% prod_plan_12.dzn — larger instance: choose 5 of 12 products
+n     = 12;
+k     = 5;          % how many products to put into the plan
+limit = 30;         % weight (capacity) budget — binding here
+
+%        P1  P2  P3  P4  P5  P6  P7  P8  P9 P10 P11 P12
+wght   = [ 9,  7,  4,  8,  5,  2,  6, 11,  3, 10,  7,  5];
+profit = [15, 10,  7, 12,  9,  4, 11, 18,  5, 14, 13,  8];

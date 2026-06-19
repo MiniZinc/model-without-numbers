@@ -1,0 +1,14 @@
+{
+    "openFiles": [
+        "02-ProdPlan/06_prod_plan.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "02-ProdPlan/06_prod_plan.mzn",
+        "02-ProdPlan/prod_plan_12.dzn",
+        "02-ProdPlan/prod_plan_6.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.gecode.gecode",
+    "selectedBuiltinConfigVersion": "6.3.0",
+    "version": 106
+}

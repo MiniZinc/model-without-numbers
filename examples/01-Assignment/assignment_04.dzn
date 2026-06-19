@@ -1,0 +1,11 @@
+% assignment.dzn — data for the combined assignment + conditional model
+n = 4;
+
+% cost[w,t]: rows = workers, columns = tasks
+cost = [| 2, 9, 9, 9
+        | 9, 3, 5, 9
+        | 9, 6, 7, 9
+        | 9, 9, 9, 1 |];
+
+dur = [10, 8, 3, 2];   % tasks 1,2 are "heavy"; tasks 3,4 are light
+H   = 5;               % threshold: dur > 5 counts as heavy

@@ -1,0 +1,11 @@
+% bug_demo.dzn — x[t,w] vs x[w,t] produces different optima here
+n = 5;
+
+cost = [| 2, 9, 7, 2, 6
+        | 9, 2, 1, 8, 3
+        | 4, 7, 1, 9, 2
+        | 2, 7, 3, 1, 6
+        | 2, 1, 2, 8, 5 |];
+
+dur = [9, 8, 7, 2, 1];   % heavy tasks (dur > H): T1, T2, T3 ; light: T4, T5
+H   = 5;

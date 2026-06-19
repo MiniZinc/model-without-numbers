@@ -1,0 +1,23 @@
+{
+    "openFiles": [
+        "01-Assignment/01_assignment_MIP.mzn",
+        "01-Assignment/02_assignment_CP.mzn",
+        "01-Assignment/03_assignment_MIP_heavy_bug.mzn",
+        "01-Assignment/04_assignment_CP_heavy.mzn",
+        "01-Assignment/05_assignment_MIP_heavy.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "01-Assignment/01_assignment_MIP.mzn",
+        "01-Assignment/02_assignment_CP.mzn",
+        "01-Assignment/03_assignment_MIP_heavy_bug.mzn",
+        "01-Assignment/04_assignment_CP_heavy.mzn",
+        "01-Assignment/05_assignment_MIP_heavy.mzn",
+        "01-Assignment/assignment_04.dzn",
+        "01-Assignment/assignment_05.dzn",
+        "01-Assignment/assignment_10.dzn"
+    ],
+    "selectedBuiltinConfigId": "org.minizinc.mip.highs",
+    "selectedBuiltinConfigVersion": "1.14.0",
+    "version": 106
+}
